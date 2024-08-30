@@ -1,0 +1,22 @@
+Notas de aula
+
+Módulos (modularização em C):
+  - 1o Função 
+    Resproveitam código
+    Evitar repetição de código
+  
+  -2o Header Files
+    Arquivo como código
+
+  gcc exemplo1.c arit.c -o cont.bin -Wall
+  (tanto faz a ordem entre exemplo1.c e arit.c)
+  (explicitar os outros .c's quando não se trata de funções pré-prontas)
+  (EM .C: assinatura de funções, definições de tipos e definição de constantes)
+  gcc -c circ.c -Wall (p/ ocultar arquivos de funções)
+  
+  REUSO
+    Arquivos com funções
+      biblioteca 
+      TAD - tipo abstrato de dados (lista, dic, pilhas/filas)
+      módulos do S.O. (não visto)
+  

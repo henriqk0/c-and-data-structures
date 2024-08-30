@@ -1,0 +1,20 @@
+927996502-83;Miguel Dias Monteiro Moura; Rua Anestor Pedro, no. 90, cep 396965-421, Andorinhas, Linhares, AM; 22
+911368684-46;Agatha Fernandes Cardoso Souza; Rua Anníbal Vieira Rabayolli, no. 18, cep 45869-120, Santa Martha, Serra, AP; 22
+768510707-95;Anthony Barbosa; Praça Anníbal Anthero Martins, no. 55, cep 30427-607, Bela Vista, Vitória, AM; 23
+892582510-80;Pietro Pereira Oliveira; Rua Antenor Guimarães, no. 64, cep 661938-339, Caratoíra, Colatina, SC; 24
+774245986-52;Arthur Nascimento; Rua Anníbal Vieira Rabayolli, no. 82, cep 520712-490, Forte São João, Nova Almeida, AL; 27
+652616916-67;Liz Gomes Lima; Rua Anestor Pedro, no. 29, cep 523021-175, Bonfim, Iúna, TO; 26
+915590494-12;Henrique Santos Pinto Campos; Rua Anníbal Vieira Rabayolli, no. 61, cep 245577-059, Cruzamento, Linhares, RJ; 16
+892512277-72;Pedro Monteiro Costa Rodrigues; Escadaria Anselmo Serrat, no. 70, cep 984085-608, Nova Palestina, Linhares, RN; 16
+839854137-63;Elisa Cavalcanti; Rua Alfredo Otto Drews, no. 64, cep 254222-749, Jardim da Penha, Vila-Velha, PE; 19
+861206562-24;Liz Silva Souza; Rua Antônio Aleixo, no. 63, cep 112812-231, São Pedro, Manguinhos, TO; 24
+768388485-95;Rebeca Moura; Rua Antonieta Tatagiba, no. 3, cep 500021-815, Monte Belo, Muniz Freire, PA; 20
+674887532-64;Daniel Cavalcanti Moura; Beco Antenor Falcão, no. 15, cep 451230-868, Redenção, Alegre, PB; 17
+749913001-94;João Pedro Castro; Escadaria Andrelino Pereira, no. 62, cep 748628-348, Horto, Vitória, MT; 26
+971453141-53;Alice Oliveira Monteiro Mendes; Rua Antonello Braga, no. 81, cep 797537-161, Santa Clara, Alfre Chaves, MG; 22
+926234111-38;Luiza Souza Oliveira Ribeiro; Beco Antenor Falcão, no. 13, cep 266311-474, Solon Borges, Nova Venécia, CE; 26
+752753199-13;Yasmin Araújo Martins Mendes; Escadaria Antônia Pereira Paiva, no. 48, cep 980656-134, Consolação, Muniz Freire, SC; 22
+640183396-68;Benício Lima; Travessa Alfredo Sampaio, no. 71, cep 84717-969, Solon Borges, Viana, MT; 18
+738860289-93;Catarina Barros Mendes Alves; Escadaria Antípo Francisco do Nascimento, no. 83, cep 987951-262, São Benedito, Iúna, SP; 20
+674242055-27;Benício Oliveira Mendes; Travessa Ângelo Zardine, no. 49, cep 330384-341, Santo André, Cariacica, SC; 21
+708093787-23;Emanuelly Monteiro Nascimento Oliveira; Escadaria Antenor Passos, no. 82, cep 901142-935, de Lourdes, Cariacica, RS; 18
