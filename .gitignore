@@ -1,3 +1,15 @@
+.cache/
+.ccls-cache/
+.ipynb_checkpoints/
+.local/share/
+.vscode/
+.git/
+
+.breakpoints
+.replit
+*.out
+*.bin
+
 # Prerequisites
 *.d
 
