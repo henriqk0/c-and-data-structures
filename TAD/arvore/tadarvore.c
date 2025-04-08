@@ -11,7 +11,7 @@ void inord_print(Pilha x) {
 }
 */
 
-void print_inord_rec_int(PONT raiz) {
+void print_inord_rec_int(PONT raiz) { /* traveling in depth */
   if (raiz != NULL) {
     print_inord_rec_int(raiz->esq);
     printf("%d\t", *(int *)raiz->chave);
@@ -19,7 +19,7 @@ void print_inord_rec_int(PONT raiz) {
   }
 }
 
-void seetree_int(PONT raiz) {
+void seetree_int(PONT raiz) { /* traveling in width */
   if (raiz != NULL) {
     printf("%d", *(int *)raiz->chave);
     printf("(");
